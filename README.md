@@ -9,25 +9,21 @@ site can be viewed live <br>
 # Screenshots of Project
 
 # Home page of project
-![Screenshot (607)](https://user-images.githubusercontent.com/40494619/155872550-e7db11d2-b152-4a14-810d-f8c714a4a6b9.png)
+
 # Home page containing Information about Disease
-![Screenshot (608)](https://user-images.githubusercontent.com/40494619/155872561-6f15a2c6-f92f-4eb7-a0ab-a8ee3f7cc521.png)
+
 # Malaria (Disease predictor) page in navigation it is next to Home page tab when clicked on it and scrolled down  it appyears
-![Screenshot (609)](https://user-images.githubusercontent.com/40494619/155872572-86d312a7-f632-4471-b804-80ecfe7d322f.png)
+
 Selecting sample image to be tested for prediction for upload
-![Screenshot (612)](https://user-images.githubusercontent.com/40494619/155872590-035243af-8f1e-4b11-9ecb-1d2d7eec63b2.png)
+
 # uploaded sample image (when clicked on submit ,it starts predicting by classifying image
-![Screenshot (613)](https://user-images.githubusercontent.com/40494619/155872593-ce48dfec-babe-419e-ab78-a45b91073839.png)
+
 # Output -infected cell (malaria positive)
-![Screenshot (617)](https://user-images.githubusercontent.com/40494619/155872612-abcb679c-0789-49bb-ab10-e1b40a01c3a4.png)
+
 # Another sample image taken for prediction
-![Screenshot (618)](https://user-images.githubusercontent.com/40494619/155872619-34937f54-bfc2-4d8b-a3a0-ea97c8784e33.png)
+
 # Output image (Malaria not present)
-![Screenshot (619)](https://user-images.githubusercontent.com/40494619/155872629-bb447a5c-9dbf-45e3-bd22-47cf87aafe7a.png)
 
-# Video of Project
-
-https://user-images.githubusercontent.com/40494619/155873377-164f5b8d-c183-4e14-9e04-847078f6b04a.mp4
 
 
 ## Aim / Purpose
